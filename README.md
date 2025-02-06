@@ -1,8 +1,6 @@
-# web-dev-starter
+# M4.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a refresher project for CSS in which we take an HTML file and apply CSS rules to the stylesheet to match that of the directions.
 
 ## Getting Started
 
@@ -18,13 +16,8 @@ This will install the necessary dependencies for the project.
 It is recommended to use the VSCode Live Server extension to run the project
 locally. This will allow you to see changes in real-time as you make them. There
 is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
+you do not need to setup a local server to run the project. Depending on the width of your screen, the images may appear stacked on top of one another in a single column. If this is the case, expand your screen.
 
 ## Testing
 
-To run the tests for the project, run the following command: smoop
-
-
-```bash
-npm test
-```
+There are no tests for this project other than visualization.
