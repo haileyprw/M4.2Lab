@@ -22,7 +22,8 @@ you do not need to setup a local server to run the project.
 
 ## Testing
 
-To run the tests for the project, run the following command:
+To run the tests for the project, run the following command: smoop
+
 
 ```bash
 npm test
