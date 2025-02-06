@@ -21,3 +21,8 @@ you do not need to setup a local server to run the project. Depending on the wid
 ## Testing
 
 There are no tests for this project other than visualization.
+
+## Sources 
+
+- imagecolorpicker.com
+- W3 Schools CSS documentation (particularly for Position and Margins)
